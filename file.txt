@@ -1,0 +1,37 @@
+A TXT file is a standard text document that contains unformatted text. 
+It is recognized by any text editing or word processing program and can also be processed by most other software programs.
+ TXT files are often created and opened using Microsoft Notepad and Apple TextEdit.
+TXT File Format
+Word of the Day
+12 factor app
+Twelve-factor app is a methodology for building distributed applications that run in the cloud and are delivered as a service. The approach was developed by Adam Wiggins, the co-founder of Heroku, a platform-as-a-service which is now part of Salesforce.com.
+
+20 Newest and Updated Terms
+use case diagram (UML use case diagram)
+Platform as a Service (PaaS)
+vulnerability assessment (vulnerability analysis)
+data preparation
+enterprise architecture (EA)
+data preprocessing
+web server
+Cisco Performance Routing (PfR)
+The Phoenix Project
+risk assessment
+smart home or building (home automation or domotics)
+Salesforce Service Cloud
+self-service business intelligence (BI)
+big data analytics
+Infrastructure as a Service (IaaS)
+industrial internet of things (IIoT)
+What is identity and access management? Guide to IAM
+data restore
+smart city
+backup
+Top 20 File Extensions
+.Edraw XML file.BAI.TD5.CCS.CCRF.CCRF.CCR.CCR.CCR.CCR.CCR.CCPR.CCP.TJM.TJL.TJL.TIX.TIX.TIX.TIX
+ASCII text-formatted data
+TXT file format icon
+
+TXT is a file extension for a text file, used by a variety of text editors. 
+
+Text is a human-readable sequence of characters and the words they form that can be encoded into computer-readable formats. There is no standard definition of a text file, though there are several common formats, including ASCII (a cross-platform format), and ANSI (used on DOS and Windows platforms).
